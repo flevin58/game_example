@@ -1,5 +1,6 @@
-### Decription ###
+### Description ###
 This is an example on how to structure a game in rust using raylib.
+It displays moving squares and circles.
 
 Main features used here are:
 
