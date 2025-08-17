@@ -12,6 +12,8 @@ Main features used here are:
 - A Vec\<Box\<dyn GameObject\>\> is used to push all objects, that are updated and displayes in respective loops.
 - Simple to add other objects by creating a new file in src/game/objects/ with a struct that implements the GameObject trait.
 
+## Module Structure ##
+
 ## Screenshot ##
 
 <img width="800" height="628" alt="Screenshot" src="https://github.com/user-attachments/assets/b450ff7a-ed0d-4577-9f92-12f2ccc637dc" />
