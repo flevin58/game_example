@@ -14,6 +14,8 @@ Main features used here are:
 
 ## Module Structure ##
 
+<img width="444" height="391" alt="Capto_Capture 2025-08-18_12-41-57_AM" src="https://github.com/user-attachments/assets/5cd23c00-d846-4cee-a9f7-a2a371faad28" />
+
 ## Screenshot ##
 
 <img width="800" height="628" alt="Screenshot" src="https://github.com/user-attachments/assets/b450ff7a-ed0d-4577-9f92-12f2ccc637dc" />
